@@ -47,9 +47,11 @@
 
 * teamcity-server
 * teamcity-agent
-* nexus (развернул через playbook,  в котором была ошибка)
-* 
+* nexus (развернул через playbook, исправил ошибку в нем).
+
 ![Screenshot_1](https://github.com/user-attachments/assets/a9a2cb1f-9a25-4ca3-add4-b3938037611d)
+
+![Screenshot_3](https://github.com/user-attachments/assets/39306b9f-523c-4335-9ace-6405e24a4238)
 
 
 ![Screenshot_4](https://github.com/user-attachments/assets/c93d9569-84ac-4643-9462-42bc4dde7d02)
@@ -57,6 +59,8 @@
 ![Screenshot_5](https://github.com/user-attachments/assets/d5c1ed11-b337-4c3c-9447-1efd9f5789ae)
 
 ![Screenshot_10](https://github.com/user-attachments/assets/a79b6497-c1b0-49b6-944a-8224e166bd62)
+
+
 
 
 
