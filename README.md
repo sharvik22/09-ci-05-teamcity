@@ -43,7 +43,14 @@
 
 ## Подготовка к выполнению
 
-В Yandex Cloud создал три ВМ
+В Yandex Cloud создал три ВМ:
+
+* teamcity-server
+* teamcity-agent
+* nexus (развернул через playbook,  в котором была ошибка)
+* 
+![Screenshot_1](https://github.com/user-attachments/assets/a9a2cb1f-9a25-4ca3-add4-b3938037611d)
+
 
 ![Screenshot_4](https://github.com/user-attachments/assets/c93d9569-84ac-4643-9462-42bc4dde7d02)
 
