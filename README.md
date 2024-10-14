@@ -116,3 +116,7 @@
 
 ![image](https://github.com/user-attachments/assets/c6a7319f-158f-46ed-81d9-d202dc5d9d2d)
 
+** Ссылка на fork репозитория
+
+https://github.com/sharvik22/example-teamcity.git
+
