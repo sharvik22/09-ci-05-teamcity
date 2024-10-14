@@ -60,6 +60,20 @@
 
 ![Screenshot_10](https://github.com/user-attachments/assets/a79b6497-c1b0-49b6-944a-8224e166bd62)
 
+Сделайте fork 
+
+![image](https://github.com/user-attachments/assets/e87ac7b2-419e-480f-bf27-2cc1adb0bd02)
+
+
+Авторизуйте агент
+![image](https://github.com/user-attachments/assets/db9b3749-86bf-4ace-a6a5-a4f0ef29c23e)
+
+
+## Основная часть
+
+
+![image](https://github.com/user-attachments/assets/e0c67439-fc08-4b5d-9842-84867e3b1187)
+
 
 
 
