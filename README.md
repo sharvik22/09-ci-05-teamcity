@@ -49,9 +49,8 @@
 
 ![Screenshot_5](https://github.com/user-attachments/assets/d5c1ed11-b337-4c3c-9447-1efd9f5789ae)
 
-![Screenshot_11](https://github.com/user-attachments/assets/48d4b3b2-8eec-4996-8f0e-be6f1ebb3c54)
-
 ![Screenshot_10](https://github.com/user-attachments/assets/a79b6497-c1b0-49b6-944a-8224e166bd62)
+
 
 
 
