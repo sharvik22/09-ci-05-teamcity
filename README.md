@@ -65,19 +65,54 @@
 ![image](https://github.com/user-attachments/assets/e87ac7b2-419e-480f-bf27-2cc1adb0bd02)
 
 
-Авторизуйте агент
+Авторизовал агента
+
 ![image](https://github.com/user-attachments/assets/db9b3749-86bf-4ace-a6a5-a4f0ef29c23e)
 
 
 ## Основная часть
 
+Создайте новый проект на основе fork, сделал autodetect, загрузить конфиг, внес изменения для подключения к nexus.
+В pom.xml поменял ссылки на репозиторий и nexus.
 
 ![image](https://github.com/user-attachments/assets/e0c67439-fc08-4b5d-9842-84867e3b1187)
 
+![image](https://github.com/user-attachments/assets/d62afc5e-4fc7-4f8f-b74f-389dcd39cf37)
 
+![image](https://github.com/user-attachments/assets/633ec1ab-fb6e-4818-9b45-f7cba9008587)
 
+![image](https://github.com/user-attachments/assets/c8180673-ffab-4bce-8157-e26e4b6a8ecc)
 
+![image](https://github.com/user-attachments/assets/798c74a6-d2fd-4a3c-9d07-3bba8c635cbf)
 
+![image](https://github.com/user-attachments/assets/4230d321-e3d0-4750-8d5f-6da7219891aa)
 
+![image](https://github.com/user-attachments/assets/626ba95d-315a-4a9a-a86d-cf9e710d4bef)
 
+![image](https://github.com/user-attachments/assets/b2474bd5-472a-4647-934c-835ca2e3214f)
+
+![image](https://github.com/user-attachments/assets/ac33ea98-6f6f-4265-9e04-5f716e0b829a)
+
+![image](https://github.com/user-attachments/assets/c7ca9950-3e12-4653-a113-a19c63b085f9)
+
+Создал отдельную ветку `feature/add_reply` в репозитории. Внес новый метод для класса Welcomer, дополните тест для нового метода на поиск слова `hunter` в новой реплике.
+Внес изменения из произвольной ветки `feature/add_reply` в `master` через `Merge`. Настроил конфигурацию так, чтобы она собирала `.jar` в артефакты сборки.
+
+![image](https://github.com/user-attachments/assets/b4723aa4-b5eb-454d-9e05-31b9fdf08f87)
+
+![image](https://github.com/user-attachments/assets/7bc94548-6098-4196-8b45-68bffdfc493c)
+
+![image](https://github.com/user-attachments/assets/e3506950-449a-4d22-a462-a7e8710d2a39)
+
+![image](https://github.com/user-attachments/assets/30d8cf86-c93c-4689-8511-edcfed78f5f9)
+
+![image](https://github.com/user-attachments/assets/2ccb0b8f-4f87-4378-9314-098f91642642)
+
+![image](https://github.com/user-attachments/assets/06114998-b56c-4b94-9cb7-531b9b46ceb2)
+
+![image](https://github.com/user-attachments/assets/3d3abbc8-288e-445d-8360-b01ebb58bea8)
+
+![image](https://github.com/user-attachments/assets/4481414c-9394-4ac7-8a38-070b0b52cfd9)
+
+![image](https://github.com/user-attachments/assets/c6a7319f-158f-46ed-81d9-d202dc5d9d2d)
 
